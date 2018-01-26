@@ -4,7 +4,6 @@
   "compilerOptions": {
     "module": "commonjs",
     "target": "es6",
-    "types": ["reflect-metadata"],
     "noImplicitAny": false,
     "sourceMap": false,
     "lib": ["es2015"],
